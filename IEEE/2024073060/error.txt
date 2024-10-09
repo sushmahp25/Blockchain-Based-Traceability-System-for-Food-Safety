@@ -1,0 +1,2 @@
+Errors: Font Arial-BoldItalicMT, Arial-BoldMT, Arial-ItalicMT, ArialMT, TimesNewRomanPS-BoldMT, TimesNewRomanPSMT is not embedded (1202x on pages 1-8) 
+
